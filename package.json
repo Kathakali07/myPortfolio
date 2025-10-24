@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "myPortfolio",
   "version": "1.0.0",
   "private": true,
@@ -22,28 +21,5 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-=======
-  "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
->>>>>>> 648852f3e989449138d136c00c5981c5edbfb48c
   }
 }
